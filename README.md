@@ -2,3 +2,4 @@
 
 This is the read file
 
+this is a example in readme file 
